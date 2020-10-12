@@ -1,0 +1,24 @@
+S:\20201\3DCGA\Projects\Application\bin\Debug\Application.exe.config
+S:\20201\3DCGA\Projects\Application\bin\Debug\Application.exe
+S:\20201\3DCGA\Projects\Application\bin\Debug\Application.pdb
+S:\20201\3DCGA\Projects\Application\bin\Debug\Application.xml
+S:\20201\3DCGA\Projects\Application\obj\Debug\Application.vbprojAssemblyReference.cache
+S:\20201\3DCGA\Projects\Application\obj\Debug\Application.frmMain.resources
+S:\20201\3DCGA\Projects\Application\obj\Debug\Application.Resources.resources
+S:\20201\3DCGA\Projects\Application\obj\Debug\Application.vbproj.GenerateResource.cache
+S:\20201\3DCGA\Projects\Application\obj\Debug\Application.vbproj.CoreCompileInputs.cache
+S:\20201\3DCGA\Projects\Application\obj\Debug\Application.exe
+S:\20201\3DCGA\Projects\Application\obj\Debug\Application.xml
+S:\20201\3DCGA\Projects\Application\obj\Debug\Application.pdb
+D:\SMT 7\3D CGA\Application\bin\Debug\Application.exe.config
+D:\SMT 7\3D CGA\Application\bin\Debug\Application.exe
+D:\SMT 7\3D CGA\Application\bin\Debug\Application.pdb
+D:\SMT 7\3D CGA\Application\bin\Debug\Application.xml
+D:\SMT 7\3D CGA\Application\obj\Debug\Application.vbprojAssemblyReference.cache
+D:\SMT 7\3D CGA\Application\obj\Debug\Application.frmMain.resources
+D:\SMT 7\3D CGA\Application\obj\Debug\Application.Resources.resources
+D:\SMT 7\3D CGA\Application\obj\Debug\Application.vbproj.GenerateResource.cache
+D:\SMT 7\3D CGA\Application\obj\Debug\Application.vbproj.CoreCompileInputs.cache
+D:\SMT 7\3D CGA\Application\obj\Debug\Application.exe
+D:\SMT 7\3D CGA\Application\obj\Debug\Application.xml
+D:\SMT 7\3D CGA\Application\obj\Debug\Application.pdb
